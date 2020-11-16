@@ -18,9 +18,13 @@ SFML version of Brick Breaker Game Colored
 7.Inside  input options under Additional Dependencies provide these values 
 
 sfml-system-d.lib
+
 sfml-graphics-d.lib
+
 sfml-audio-d.lib
+
 sfml-network-d.lib
+
 sfml-window-d.lib
 
 8. Inside C/C++ options under additional include browse and provide the path of the the include folder.
