@@ -1,6 +1,8 @@
 # Brick-Breaker-
 SFML version of Brick Breaker Game Colored
 
+Brick Breaker game is an arcade game in which the objective of a platform is to collect all the bricks with the help of a ball without tripping it down.
+
 ------------------------INSTRUCTIONS------------------------------------
 
 1. Download and Install SFML 32 bit only.
