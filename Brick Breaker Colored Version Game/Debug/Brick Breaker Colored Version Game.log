@@ -1,0 +1,5 @@
+﻿  Brick Breaker Colored Version Game.cpp
+e:\c++ game projects\brick breaker colored version game\brick breaker colored version game\brick breaker colored version game.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\c++ game projects\brick breaker colored version game\brick breaker colored version game\brick breaker colored version game.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++ game projects\brick breaker colored version game\brick breaker colored version game\brick breaker colored version game.cpp(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Brick Breaker Colored Version Game.vcxproj -> E:\C++ game Projects\Brick Breaker Colored Version Game\Debug\Brick Breaker Colored Version Game.exe
